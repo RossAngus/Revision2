@@ -1,0 +1,25 @@
+﻿Systems Programming Report
+Ross Angus, 2244073A
+
+Compilable
+Non-functional
+BST
+
+I have no shame in admitting that I struggled greatly with this coursework. I shall say now that my code does not function as at all intended. The code I have written I felt was going ok until I reached the iterative concepts, at which point I truly became out of my depth. I would certainly not say that I am versed in C. I thought I had learned a fair amount over summer but I was clearly naive. As such, once I began to struggle I decided to use my time learning as much as I could to aid me in the next coursework. While I am unhappy with my work, I am happy with what I have learned. I’ve left in the comments I wrote when I got bogged down as I intend to continue this coursework after the hand in and want to be able to try to get it to work before I begin the next coursework as I think managing this one will serve me well for the next (I also hope this will convey my intended ideas). As for specifics: I am quite sure that my code compiles, as no errors were output when I ran ‘make’ in the terminal, (that doesn’t say a lot about it other than that there are no errors caught by the compiler) which is not very impressive. When executing the tldmonitor executable I am presented with a segmentation fault, I expected to see a lot of these during the task but after some trouble shooting I was unable to decide what was causing it and for that reason this is the entire capability of my code. I have essentially not implemented a BST as I was most concerned with getting a functional linked list. I believed that a good linked list would make my life easy when I began the BST, but again: I have no idea if my linked list is functional (I assume not, though), I did begin to play around with the BST so rather than saying I implemented neither, I’ll say I began to implement a BST. I apologise for the quality of my work and will certainly attempt to achieve more in the next coursework. I aim only to build on my failings in this task. Below I shall add some references for websites I consulted for learning C concepts. These websites do have code in them but those with extensive code I clearly haven't copied, and I don’t consider using a function such as strrchr which I read about as plagiarism.
+
+BST
+https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
+
+Recursion
+https://www.learn-c.org/en/Recursion
+
+Linked List
+https://www.learn-c.org/en/Linked_lists
+
+strrchr
+http://www.cplusplus.com/reference/cstring/strrchr/
+
+sscanf
+https://www.tutorialspoint.com/c_standard_library/c_function_sscanf.htm
+
+I also consulted the tree examples from lecture 4 as well as the AVL tree Java implementation
